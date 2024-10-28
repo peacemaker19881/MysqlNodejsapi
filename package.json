@@ -1,0 +1,16 @@
+{
+  "name": "mysqlnodejsapi",
+  "version": "1.0.0",
+  "description": "This will be used while developing API in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer IT Peace",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.5"
+  }
+}
